@@ -1,0 +1,108 @@
+<div class="threed-viewer">
+    <div class="card mb-3">
+        <div class="card-header">
+            <h5 class="mb-0">3D Model Viewer</h5>
+        </div>
+        <div class="card-body">
+            <div class="upload-zone" id="threeDDropzone">
+                <div class="dz-message">
+                    <h4>Drop 3D model files here or click to upload</h4>
+                    <p class="text-muted">Supported formats: .obj, .stl, .off, .ply</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Original Model</h5>
+                </div>
+                <div class="card-body">
+                    <div id="originalModel" class="model-container" style="height: 400px;"></div>
+                    <div id="originalModelInfo" class="mt-2"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Processed Model</h5>
+                </div>
+                <div class="card-body">
+                    <div id="processedModel" class="model-container" style="height: 400px;"></div>
+                    <div id="processedModelInfo" class="mt-2"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Preprocessing Options</h5>
+                </div>
+                <div class="card-body">
+                    <div class="form-check mb-2">
+                        <input class="form-check-input" type="checkbox" id="removeDuplicates" checked>
+                        <label class="form-check-label" for="removeDuplicates">
+                            Remove Duplicate Faces
+                        </label>
+                    </div>
+                    <div class="form-check mb-2">
+                        <input class="form-check-input" type="checkbox" id="fixNormals" checked>
+                        <label class="form-check-label" for="fixNormals">
+                            Fix Surface Normals
+                        </label>
+                    </div>
+                    <div class="form-check mb-2">
+                        <input class="form-check-input" type="checkbox" id="fillHoles" checked>
+                        <label class="form-check-label" for="fillHoles">
+                            Fill Holes
+                        </label>
+                    </div>
+                    <button id="preprocessBtn" class="btn btn-primary">
+                        Preprocess Model
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Augmentation Options</h5>
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label for="scale" class="form-label">Scale Factor</label>
+                        <input type="range" class="form-range" id="scale" min="0.1" max="2" step="0.1" value="1">
+                        <span id="scaleValue">1.0</span>
+                    </div>
+                    <div class="mb-3">
+                        <label for="rotateX" class="form-label">Rotate X (degrees)</label>
+                        <input type="range" class="form-range" id="rotateX" min="0" max="360" step="15" value="0">
+                        <span id="rotateXValue">0°</span>
+                    </div>
+                    <div class="mb-3">
+                        <label for="rotateY" class="form-label">Rotate Y (degrees)</label>
+                        <input type="range" class="form-range" id="rotateY" min="0" max="360" step="15" value="0">
+                        <span id="rotateYValue">0°</span>
+                    </div>
+                    <div class="mb-3">
+                        <label for="rotateZ" class="form-label">Rotate Z (degrees)</label>
+                        <input type="range" class="form-range" id="rotateZ" min="0" max="360" step="15" value="0">
+                        <span id="rotateZValue">0°</span>
+                    </div>
+                    <button id="augmentBtn" class="btn btn-primary">
+                        Augment Model
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="processingSteps" class="mt-3"></div>
+</div>

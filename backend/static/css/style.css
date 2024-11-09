@@ -1,0 +1,259 @@
+/* frontend/static/css/style.css */
+.viewer-container {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.upload-zone {
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease;
+}
+
+.upload-zone:hover {
+    border-color: #007bff;
+    cursor: pointer;
+}
+
+.viewer-controls {
+    margin: 20px 0;
+}
+
+.viewer-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+@media (max-width: 768px) {
+    .viewer-display {
+        grid-template-columns: 1fr;
+    }
+}
+
+.viewer-display img {
+    max-width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Component-specific styles */
+.waveform-container {
+    height: 128px;
+    background: #f5f5f5;
+    border-radius: 4px;
+}
+
+.threed-container {
+    height: 400px;
+    background: #000;
+    border-radius: 4px;
+}
+
+.loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.toast-container {
+    z-index: 9999;
+}
+
+/* Ensure footer stays at bottom */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+/* API Status Dashboard Styles */
+.api-status-dashboard .card {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.service-status {
+    padding: 10px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    margin: 5px 0;
+}
+
+.status-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #808080;
+    margin-right: 8px;
+}
+
+/* Endpoint Overview Styles */
+.endpoint-overview .accordion {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.endpoint-overview .table {
+    margin-bottom: 0;
+}
+
+.endpoint-overview .table td {
+    padding: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.upload-area {
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.dropzone {
+    border: 2px dashed #0087F7;
+    border-radius: 5px;
+    background: white;
+    min-height: 150px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.dropzone .dz-message {
+    font-weight: 400;
+}
+
+.dropzone .dz-preview .dz-error-message {
+    color: red;
+}
+
+.image-container {
+    max-width: 100%;
+    margin: 15px 0;
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.audio-container {
+    width: 100%;
+    margin: 15px 0;
+}
+
+.text-container {
+    margin: 15px 0;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+.text-content {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.viewer-container {
+    width: 100%;
+    height: 400px;
+    background: #000;
+    margin: 15px 0;
+}
+
+#alertArea {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    max-width: 350px;
+}
+
+/* Add these styles to your existing CSS */
+
+.model-container {
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+}
+
+.model-container canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.model-controls {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 100;
+}
+
+.model-controls button {
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    margin-left: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.model-controls button:hover {
+    background: rgba(255, 255, 255, 1);
+}
+
+.threed-viewer .card-body {
+    padding: 0;
+    overflow: hidden;
+}
+
+.threed-viewer .model-container {
+    border-radius: 0;
+}
+
+/* Add these styles */
+#processingOptions {
+    margin-top: 20px;
+}
+
+#processingOptions .btn {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.processing-card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.processing-card .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.processing-card .btn {
+    min-width: 120px;
+}

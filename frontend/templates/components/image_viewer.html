@@ -1,0 +1,102 @@
+<div class="image-viewer">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Original Image</h5>
+                </div>
+                <div class="card-body">
+                    <img id="originalImage" class="img-fluid" alt="Original image">
+                    <div class="mt-2" id="originalImageInfo"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Processed Image</h5>
+                </div>
+                <div class="card-body">
+                    <img id="processedImage" class="img-fluid" alt="Processed image">
+                    <div class="mt-2" id="processedImageInfo"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mt-3">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0">Preprocessing Options</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-2">
+                            <label class="form-label" for="resizeWidth">Width:</label>
+                            <div class="input-group">
+                                <input type="number" class="form-control" id="resizeWidth" 
+                                       placeholder="Width" aria-label="Resize width">
+                                <span class="input-group-text">×</span>
+                                <input type="number" class="form-control" id="resizeHeight" 
+                                       placeholder="Height" aria-label="Resize height">
+                            </div>
+                        </div>
+                        <div class="mb-2">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="grayscale">
+                                <label class="form-check-label" for="grayscale">
+                                    Convert to Grayscale
+                                </label>
+                            </div>
+                        </div>
+                        <div class="mb-2">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="normalize">
+                                <label class="form-check-label" for="normalize">
+                                    Normalize Colors
+                                </label>
+                            </div>
+                        </div>
+                        <button id="preprocessBtn" class="btn btn-primary">Preprocess Image</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0">Augmentation Options</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-2">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="flip">
+                                <label class="form-check-label" for="flip">
+                                    Flip Horizontally
+                                </label>
+                            </div>
+                        </div>
+                        <div class="mb-2">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="rotate">
+                                <label class="form-check-label" for="rotate">
+                                    Rotate 90°
+                                </label>
+                            </div>
+                        </div>
+                        <div class="mb-2">
+                            <label class="form-label" for="brightness">Brightness Adjustment:</label>
+                            <input type="range" class="form-range" id="brightness" 
+                                   min="-100" max="100" value="0"
+                                   aria-label="Brightness adjustment">
+                            <div class="small text-muted text-center">
+                                <span id="brightnessValue">0</span>%
+                            </div>
+                        </div>
+                        <button id="augmentBtn" class="btn btn-secondary">Augment Image</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="processingSteps" class="mt-3"></div>
+</div>

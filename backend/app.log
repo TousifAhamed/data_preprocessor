@@ -1,0 +1,1335 @@
+2024-11-06 22:18:13,353 - app.core.logger - INFO - File uploaded successfully: uploads\text\Sample.txt
+2024-11-06 22:19:43,248 - app.core.logger - INFO - File uploaded successfully: uploads\text\Sample.txt
+2024-11-06 22:55:02,882 - app.core.logger - INFO - File uploaded successfully: uploads\text\Sample.txt
+2024-11-06 22:55:59,517 - app.core.logger - INFO - File uploaded successfully: uploads\text\Sample.txt
+2024-11-06 22:57:05,506 - app.core.logger - INFO - File uploaded successfully: uploads\image\c166f01137463e50c384fac2a9dae80e.jpg
+2024-11-06 22:57:41,302 - app.core.logger - INFO - File uploaded successfully: uploads\image\1624255626428.jpg
+2024-11-06 22:57:59,372 - app.core.logger - INFO - File uploaded successfully: uploads\text\requirements.txt
+2024-11-06 22:58:26,006 - app.core.logger - INFO - File uploaded successfully: uploads\text\demo.txt
+2024-11-06 22:58:42,625 - app.core.logger - INFO - File uploaded successfully: uploads\image\esc50.gif
+2024-11-06 22:58:51,342 - app.core.logger - INFO - File uploaded successfully: uploads\audio\1-137-A-32.wav
+2024-11-06 23:17:31,986 - app.core.logger - INFO - File uploaded successfully: uploads\audio\1-7456-A-13.wav
+2024-11-06 23:18:55,734 - app.core.logger - INFO - File uploaded successfully: uploads\text\Sample.txt
+2024-11-06 23:19:50,467 - app.core.logger - INFO - File uploaded successfully: uploads\text\Sample.txt
+2024-11-06 23:27:30,963 - app.core.logger - INFO - File uploaded successfully: uploads\text\windows-version.txt
+2024-11-06 23:30:31,057 - app.core.logger - INFO - File uploaded successfully: uploads\text\Greetings,.txt
+2024-11-06 23:33:00,469 - app.core.logger - INFO - File uploaded successfully: uploads\text\crl lab report.txt
+2024-11-06 23:33:07,893 - app.core.logger - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\TousifAhamed Nadaf/nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\share\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\lib\\nltk_data'
+    - 'C:\\Users\\TousifAhamed Nadaf\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-06 23:36:44,377 - app.core.logger - INFO - NLTK data downloaded successfully
+2024-11-06 23:37:25,489 - app.core.logger - INFO - NLTK data downloaded successfully
+2024-11-06 23:39:52,720 - app.core.logger - INFO - File uploaded successfully: uploads\text\LICENSE.txt
+2024-11-06 23:39:59,978 - app.core.logger - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\TousifAhamed Nadaf/nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\share\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\lib\\nltk_data'
+    - 'C:\\Users\\TousifAhamed Nadaf\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-06 23:39:59,980 - app.core.logger - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\TousifAhamed Nadaf/nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\share\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\lib\\nltk_data'
+    - 'C:\\Users\\TousifAhamed Nadaf\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-06 23:43:03,243 - app.core.logger - INFO - NLTK data downloaded successfully
+2024-11-06 23:43:03,248 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-06 23:44:00,946 - app.core.logger - INFO - File uploaded successfully: uploads\text\requirements.txt
+2024-11-06 23:44:05,266 - app.core.logger - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\TousifAhamed Nadaf/nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\share\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\lib\\nltk_data'
+    - 'C:\\Users\\TousifAhamed Nadaf\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-06 23:44:05,268 - app.core.logger - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\TousifAhamed Nadaf/nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\share\\nltk_data'
+    - 'D:\\DEV\\miniconda\\envs\\pytorch_env\\lib\\nltk_data'
+    - 'C:\\Users\\TousifAhamed Nadaf\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-06 23:46:40,688 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-06 23:46:41,744 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-06 23:46:41,906 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-06 23:46:42,171 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-06 23:46:42,171 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-06 23:47:53,269 - app.core.logger - INFO - File uploaded successfully: uploads\text\requirements.txt
+2024-11-06 23:48:04,923 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-06 23:48:23,726 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-07 09:45:17,214 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test.wav
+2024-11-07 09:46:35,438 - app.core.logger - ERROR - Error preprocessing audio: Complex data not supported
+[[-2.17575058e-01+0.00000000e+00j  1.71005875e-01-6.28783107e-02j
+  -1.47752583e-01+7.61081725e-02j ... -1.47539135e-02+1.05041036e-04j
+   1.47470161e-02-5.35052677e-05j -1.47458948e-02+0.00000000e+00j]
+ [-1.66096270e-01+0.00000000e+00j  5.94939664e-02+1.14283338e-01j
+   4.11614515e-02-5.66800013e-02j ...  7.35257473e-03-5.38064560e-05j
+  -2.99177282e-05-7.34554930e-03j -7.34585710e-03+0.00000000e+00j]
+ [-9.18213576e-02+0.00000000e+00j  3.03745437e-02-5.54726273e-02j
+   1.03197232e-01+6.23904765e-02j ... -6.87902002e-06+2.08836946e-06j
+   1.77112634e-06-2.34352385e-07j -4.10473035e-07+0.00000000e+00j]
+ ...
+ [-7.78553709e-02+0.00000000e+00j  4.02649725e-03-4.41137441e-02j
+   5.71127981e-02+8.06363896e-02j ...  5.75103456e-07+2.87745564e-07j
+   1.10914914e-06-8.54576143e-08j  1.17207389e-06+0.00000000e+00j]
+ [ 2.08780691e-01+0.00000000e+00j  8.21769461e-02+3.25237870e-01j
+  -3.47545803e-01-6.48526773e-02j ...  2.41928129e-03-1.91609615e-05j
+   9.38754602e-06+2.41817557e-03j -2.41744216e-03+0.00000000e+00j]
+ [ 5.55871606e-01+0.00000000e+00j -5.94092131e-01+1.91790685e-02j
+   6.18924022e-01+1.56080052e-02j ... -4.81768930e-03+3.90276582e-05j
+   4.81741317e-03-1.93428332e-05j -4.81619593e-03+0.00000000e+00j]]
+
+2024-11-07 09:46:51,566 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test_audio.wav
+2024-11-07 09:47:04,197 - app.core.logger - ERROR - Error preprocessing audio: Complex data not supported
+[[ 1.84786007e-01+0.0000000e+00j -1.41908193e+00-1.1018608e+00j
+   2.70448732e+00-2.2965057e-01j ... -2.00317204e-02+5.5062894e-05j
+   2.00319868e-02-2.7592960e-05j -2.00318675e-02+0.0000000e+00j]
+ [-1.18909204e+00+0.0000000e+00j  2.52631664e+00-2.7229816e-01j
+  -3.68707609e+00+3.4607139e-01j ...  1.00021185e-02-2.7455682e-05j
+  -1.38745481e-05-1.0002240e-02j -1.00021688e-02+0.0000000e+00j]
+ [-7.97891378e-01+0.0000000e+00j -1.48820543e+00+7.3363686e-01j
+   3.03720403e+00-9.2509371e-01j ...  3.88946859e-07+5.3985964e-08j
+   2.10685357e-07+1.2557867e-07j  3.38192791e-07+0.0000000e+00j]
+ ...
+ [ 4.49170351e-01+0.0000000e+00j -8.85256290e-01-3.6680379e+00j
+   9.00787711e-01+3.9286237e+00j ... -2.90703230e-08-7.2904037e-08j
+   1.16695446e-07+1.0971256e-07j  2.04730739e-07+0.0000000e+00j]
+ [-1.69093156e+00+0.0000000e+00j  2.58677912e+00+1.4789867e+00j
+  -2.39437723e+00-2.6505375e+00j ...  2.29691132e-03-3.1369748e-06j
+   1.45747265e-06+2.2969150e-03j -2.29701470e-03+0.0000000e+00j]
+ [ 2.12045938e-01+0.0000000e+00j -1.32841158e+00+5.1224232e-01j
+   1.58174503e+00+1.1137922e+00j ... -4.59072227e-03+6.3365728e-06j
+   4.59069619e-03-3.1486597e-06j -4.59068641e-03+0.0000000e+00j]]
+
+2024-11-07 09:49:30,871 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 09:49:31,667 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 09:49:31,690 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 09:49:31,713 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 09:49:31,713 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 09:49:53,817 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test_audio.wav
+2024-11-07 09:55:22,430 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 09:55:23,277 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 09:55:23,319 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 09:55:23,338 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 09:55:23,342 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:25:20,294 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:25:21,832 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:25:21,876 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:25:21,892 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:25:21,895 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:25:51,767 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test_audio.wav
+2024-11-07 11:27:29,049 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test2.wav
+2024-11-07 11:35:57,447 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:35:59,001 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:35:59,040 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:35:59,058 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:35:59,061 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:36:48,536 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:36:49,471 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:36:49,507 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:36:49,522 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:36:49,527 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:38:48,815 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:38:49,567 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:38:49,605 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:38:49,627 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:38:49,629 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:39:06,504 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test2.wav
+2024-11-07 11:42:28,569 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:42:29,363 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:42:29,404 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:42:29,418 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:42:29,421 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:44:02,697 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test2.wav
+2024-11-07 11:47:56,332 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:47:57,102 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:47:57,141 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:47:57,156 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:47:57,159 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:48:40,659 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test_audio.wav
+2024-11-07 11:51:47,413 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:51:48,310 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:51:48,364 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:51:48,370 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:51:48,370 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:52:37,016 - app.core.logger - INFO - File uploaded successfully: uploads\audio\sample.wav
+2024-11-07 11:56:25,181 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 11:56:25,924 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 11:56:25,962 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 11:56:25,984 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 11:56:25,986 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 11:56:51,705 - app.core.logger - INFO - File uploaded successfully: uploads\audio\sample.wav
+2024-11-07 11:56:58,717 - app.core.logger - INFO - Starting audio preprocessing for file: sample.wav
+2024-11-07 11:57:01,781 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 11:57:02,180 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 12:03:19,749 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 12:03:20,613 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 12:03:20,655 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 12:03:20,658 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 12:03:20,675 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 12:03:46,409 - app.core.logger - INFO - File uploaded successfully: uploads\audio\sample.wav
+2024-11-07 12:03:53,421 - app.core.logger - INFO - Starting audio preprocessing for file: sample.wav
+2024-11-07 12:03:56,556 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 12:03:57,049 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 12:04:28,396 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test.wav
+2024-11-07 12:04:29,768 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 12:04:29,819 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 12:04:30,047 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 12:05:46,183 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 12:05:46,232 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 12:05:46,462 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 12:16:50,624 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 12:16:51,407 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 12:16:51,452 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 12:16:51,471 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 12:16:51,476 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 12:17:01,871 - app.core.logger - INFO - File uploaded successfully: uploads\audio\sample.wav
+2024-11-07 12:17:04,522 - app.core.logger - INFO - Starting audio preprocessing for file: sample.wav
+2024-11-07 12:17:07,527 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 12:17:08,035 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 12:20:33,761 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 12:20:34,639 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 12:20:34,684 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 12:20:34,685 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 12:20:34,704 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:37:32,089 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:37:33,020 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:37:33,085 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:37:33,213 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:37:33,244 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:38:02,802 - app.core.logger - INFO - File uploaded successfully: uploads\audio\sample.wav
+2024-11-07 14:38:07,963 - app.core.logger - INFO - Starting audio preprocessing for file: sample.wav
+2024-11-07 14:38:12,198 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:38:13,380 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:40:55,726 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:40:56,715 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:40:56,766 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:40:56,857 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:40:56,881 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:41:48,776 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test2.wav
+2024-11-07 14:41:52,385 - app.core.logger - INFO - Starting audio preprocessing for file: test2.wav
+2024-11-07 14:41:55,347 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:41:55,760 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:27,518 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test.wav
+2024-11-07 14:42:31,586 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:31,639 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:31,844 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:38,806 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:38,862 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:39,055 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:42,059 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:42,101 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:42,306 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:43,456 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:43,503 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:43,745 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:43,866 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:43,909 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:44,133 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:44,285 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:44,335 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:44,557 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:44,654 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:44,719 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:44,937 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:45,027 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:45,096 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:45,317 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:45,473 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:45,521 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:45,732 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:45,800 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:45,885 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:46,097 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:46,168 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:46,243 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:46,456 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:46,510 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:46,613 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:46,836 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:46,912 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:46,915 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:46,989 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:47,215 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:47,296 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:47,526 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:47,703 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:47,710 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:47,770 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:47,982 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:48,108 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:48,320 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:48,396 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:48,475 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:48,689 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:48,744 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:48,762 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:48,838 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:49,048 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:49,119 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:49,188 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:49,403 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:49,537 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:49,848 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:49,943 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:49,946 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:49,990 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:50,244 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:50,328 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:50,523 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:42:50,604 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 14:42:50,661 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:42:50,900 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:47:19,796 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:47:20,597 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:47:20,641 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:47:20,658 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:47:20,662 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:47:52,837 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test_audio.wav
+2024-11-07 14:47:55,228 - app.core.logger - INFO - Starting audio preprocessing for file: test_audio.wav
+2024-11-07 14:47:58,283 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:47:58,764 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:49:16,154 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:49:38,038 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:49:38,079 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:49:38,098 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:49:38,104 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:49:44,084 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:49:48,994 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:49:49,042 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:49:49,059 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:49:49,064 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:50:13,837 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:50:14,800 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:50:14,840 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:50:14,855 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:50:14,858 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:50:37,263 - app.core.logger - INFO - File uploaded successfully: uploads\audio\input.wav
+2024-11-07 14:50:39,679 - app.core.logger - INFO - Starting audio preprocessing for file: input.wav
+2024-11-07 14:50:42,797 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 14:50:43,276 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:53:10,806 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:53:11,733 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:53:11,770 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:53:11,782 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:53:11,785 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:53:34,769 - app.core.logger - INFO - File uploaded successfully: uploads\audio\Recording.wav
+2024-11-07 14:54:06,308 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 14:54:08,706 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x000001A64AF934A0>: Format not recognised.
+2024-11-07 14:54:28,880 - app.core.logger - INFO - File uploaded successfully: uploads\audio\Recording.wav
+2024-11-07 14:54:31,100 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 14:54:31,102 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x000001A64D705F90>: Format not recognised.
+2024-11-07 14:56:50,401 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:56:51,175 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:56:51,213 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:56:51,234 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:56:51,238 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 14:57:25,251 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test2.wav
+2024-11-07 14:57:29,319 - app.core.logger - INFO - Starting audio preprocessing for file: test2.wav
+2024-11-07 14:57:34,719 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:57:34,757 - app.core.logger - INFO - Starting audio preprocessing for file: test2.wav
+2024-11-07 14:57:34,954 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 14:59:55,108 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 14:59:55,870 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 14:59:55,926 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 14:59:55,950 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 14:59:55,954 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 15:00:05,890 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test.wav
+2024-11-07 15:00:17,732 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 15:00:18,265 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 15:01:30,875 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 15:01:31,685 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 15:01:31,724 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 15:01:31,738 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 15:01:31,743 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 15:01:37,090 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 15:01:37,860 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 15:01:37,892 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 15:01:37,928 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 15:01:37,932 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 15:02:04,806 - app.core.logger - INFO - File uploaded successfully: uploads\audio\Recording.wav
+2024-11-07 15:02:09,623 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:02:11,976 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x0000025B138F2590>: Format not recognised.
+2024-11-07 15:05:09,743 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 15:05:10,531 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 15:05:10,571 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 15:05:10,571 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 15:05:10,590 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 15:06:09,538 - app.core.logger - INFO - File uploaded successfully: uploads\audio\test.wav
+2024-11-07 15:06:13,933 - app.core.logger - INFO - Starting audio preprocessing for file: test.wav
+2024-11-07 15:06:16,931 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 15:06:17,596 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 15:09:46,436 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 15:09:47,237 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 15:09:47,260 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 15:09:47,283 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 15:09:47,283 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 15:10:31,199 - app.core.logger - INFO - File uploaded successfully: uploads\audio\Recording.wav
+2024-11-07 15:10:38,585 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:41,089 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243C96855E0>: Format not recognised.
+2024-11-07 15:10:45,056 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:45,059 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243CBDFC130>: Format not recognised.
+2024-11-07 15:10:46,064 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:46,066 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243CBDF6590>: Format not recognised.
+2024-11-07 15:10:46,246 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:46,247 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243CBDF6590>: Format not recognised.
+2024-11-07 15:10:46,429 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:46,431 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243CBDF6590>: Format not recognised.
+2024-11-07 15:10:46,623 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:46,625 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243CBDF6590>: Format not recognised.
+2024-11-07 15:10:46,791 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:46,792 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243CBDF6590>: Format not recognised.
+2024-11-07 15:10:46,966 - app.core.logger - INFO - Starting audio preprocessing for file: Recording.wav
+2024-11-07 15:10:46,968 - app.core.logger - ERROR - Error preprocessing audio: Error opening <_io.BytesIO object at 0x00000243CBDF6590>: Format not recognised.
+2024-11-07 15:12:20,578 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 15:12:21,315 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 15:12:21,352 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 15:12:21,370 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 15:12:21,374 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 15:13:05,611 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-07 15:13:06,426 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-07 15:13:06,469 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-07 15:13:06,487 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-07 15:13:06,491 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-07 15:13:20,975 - app.core.logger - INFO - File uploaded successfully: uploads\audio\input.wav
+2024-11-07 15:13:23,276 - app.core.logger - INFO - Starting audio preprocessing for file: input.wav
+2024-11-07 15:13:26,603 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 15:13:27,078 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-07 15:13:58,046 - app.core.logger - INFO - Starting audio preprocessing for file: input.wav
+2024-11-07 15:13:58,058 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-07 15:13:58,199 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-08 13:25:27,913 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 13:25:28,960 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 13:25:29,022 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 13:25:29,074 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 13:25:29,089 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 13:26:14,723 - app.core.logger - INFO - File uploaded successfully: uploads\audio\1-1791-A-26.wav
+2024-11-08 13:26:30,709 - app.core.logger - INFO - Starting audio preprocessing for file: 1-1791-A-26.wav
+2024-11-08 13:26:30,724 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-08 13:26:31,032 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-08 13:26:56,887 - app.core.logger - INFO - File uploaded successfully: uploads\image\esc50.gif
+2024-11-08 13:27:12,557 - app.core.logger - ERROR - Error augmenting image: name 'ImageEnhance' is not defined
+2024-11-08 13:27:29,816 - app.core.logger - INFO - File uploaded successfully: uploads\image\Windows 11 requirements.PNG
+2024-11-08 13:27:32,507 - app.core.logger - ERROR - Error augmenting image: name 'ImageEnhance' is not defined
+2024-11-08 13:28:21,093 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 13:28:21,882 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 13:28:21,924 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 13:28:21,942 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 13:28:21,946 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 13:28:33,377 - app.core.logger - INFO - File uploaded successfully: uploads\image\Windows 11 requirements.PNG
+2024-11-08 13:31:25,063 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 13:31:26,043 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 13:31:26,142 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 13:31:26,201 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 13:31:26,222 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 13:31:46,442 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 13:31:47,471 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 13:31:47,534 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 13:31:47,608 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 13:31:47,614 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 13:32:06,608 - app.core.logger - INFO - File uploaded successfully: uploads\image\Capture.PNG
+2024-11-08 13:32:23,261 - app.core.logger - ERROR - Error augmenting image: name 'ImageEnhance' is not defined
+2024-11-08 13:33:47,451 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 13:33:48,345 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 13:33:48,396 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 13:33:48,411 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 13:33:48,415 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 13:35:20,632 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 13:35:21,589 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 13:35:21,629 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 13:35:21,634 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 13:35:21,634 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 13:35:45,874 - app.core.logger - INFO - File uploaded successfully: uploads\image\Capture.PNG
+2024-11-08 13:44:52,051 - app.core.logger - INFO - File uploaded successfully: uploads\3d\IronMan.obj
+2024-11-08 13:47:31,054 - app.core.logger - INFO - File uploaded successfully: uploads\3d\IronMan.obj
+2024-11-08 13:49:14,458 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 13:49:40,722 - app.core.logger - ERROR - Error augmenting 3D file: file_type must be set for file objects!
+2024-11-08 13:49:43,471 - app.core.logger - ERROR - Error preprocessing 3D file: file_type must be set for file objects!
+2024-11-08 19:52:15,506 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 19:52:16,307 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 19:52:16,360 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 19:52:16,392 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 19:52:16,408 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 19:52:21,871 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 19:52:22,641 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 19:52:22,684 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 19:52:22,705 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 19:52:22,718 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 20:02:03,012 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 20:02:03,866 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 20:02:03,904 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 20:02:03,922 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 20:02:03,925 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 20:02:57,789 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 20:03:12,335 - trimesh - INFO - triangulating faces
+2024-11-08 20:03:12,335 - trimesh - INFO - triangulating faces
+2024-11-08 20:03:12,335 - app.core.logger - ERROR - Error preprocessing 3D file: 'Scene' object has no attribute 'remove_duplicate_faces'
+2024-11-08 20:03:13,952 - trimesh - INFO - triangulating faces
+2024-11-08 20:03:13,952 - trimesh - INFO - triangulating faces
+2024-11-08 20:03:39,891 - app.core.logger - INFO - File uploaded successfully: uploads\image\ground_grass_3264_4062_Small.jpg
+2024-11-08 20:04:17,481 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 20:15:42,750 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 20:15:43,543 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 20:15:43,581 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 20:15:43,603 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 20:15:43,607 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 20:16:37,175 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 20:17:04,127 - trimesh - INFO - triangulating faces
+2024-11-08 20:17:04,144 - trimesh - INFO - triangulating faces
+2024-11-08 20:17:17,999 - trimesh - INFO - triangulating faces
+2024-11-08 20:17:17,999 - trimesh - INFO - triangulating faces
+2024-11-08 20:21:00,591 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 20:21:01,324 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 20:21:01,347 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 20:21:01,384 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 20:21:01,392 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 20:21:38,687 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 20:22:17,009 - app.core.logger - INFO - File uploaded successfully: uploads\image\ground_grass_3264_4062_Small.jpg
+2024-11-08 20:22:29,028 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 20:24:41,805 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 20:24:42,729 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 20:24:42,768 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 20:24:42,773 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 20:24:42,773 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 20:25:21,298 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 20:25:43,312 - app.core.logger - INFO - File uploaded successfully: uploads\3d\IronMan.obj
+2024-11-08 20:29:05,452 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 20:29:06,219 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 20:29:06,243 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 20:29:06,261 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 20:29:06,261 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 20:29:28,520 - app.core.logger - INFO - File uploaded successfully: uploads\3d\IronMan.obj
+2024-11-08 20:29:56,835 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 21:06:18,033 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:06:18,768 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:06:18,800 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:06:18,812 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:06:18,815 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:07:53,110 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 21:10:51,910 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:10:53,079 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:10:53,118 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:10:53,120 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:10:53,137 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:12:15,026 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:12:15,753 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:12:15,786 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:12:15,786 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:12:15,786 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:24:27,397 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 21:25:11,225 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 21:27:47,521 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:27:48,392 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:27:48,438 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:27:48,457 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:27:48,461 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:28:26,899 - app.core.logger - INFO - File uploaded successfully: uploads\3d\mount.blend1.obj
+2024-11-08 21:33:30,905 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:33:31,839 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:33:31,891 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:33:31,911 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:33:31,925 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:36:43,870 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:36:44,636 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:36:44,671 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:36:44,685 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:36:44,689 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:40:03,190 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:40:04,091 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:40:04,131 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:40:04,147 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:40:04,152 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:42:22,263 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:42:23,061 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:42:23,101 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:42:23,115 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:42:23,118 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:44:55,209 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:44:56,306 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:44:56,384 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:44:56,409 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:44:56,421 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 21:47:08,703 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 21:47:09,638 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 21:47:09,682 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 21:47:09,683 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 21:47:09,701 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:03:26,751 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:03:27,698 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:03:27,721 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:03:27,744 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:03:27,744 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:06:10,176 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:06:10,945 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:06:10,982 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:06:10,999 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:06:11,003 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:08:51,174 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:08:51,925 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:08:52,003 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:08:52,019 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:08:52,035 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:10:45,302 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:10:46,110 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:10:46,153 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:10:46,168 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:10:46,172 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:10:52,459 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:10:53,273 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:10:53,325 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:10:53,340 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:10:53,344 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:11:02,761 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:11:03,687 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:11:03,735 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:11:03,759 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:11:03,766 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:15:21,973 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:15:22,913 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:15:22,959 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:15:22,961 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:15:22,978 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:20:34,567 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:20:35,321 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:20:35,373 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:20:35,410 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:20:35,415 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:23:25,846 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:23:26,559 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:23:26,591 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:23:26,594 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:23:26,594 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:27:08,999 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:27:09,848 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:27:09,878 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:27:09,899 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:27:09,903 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:33:17,592 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:33:18,448 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:33:18,473 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:33:18,496 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:33:18,496 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:35:27,045 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:35:27,887 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:35:28,016 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:35:28,357 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:35:28,368 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:36:08,390 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:36:09,163 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:36:09,186 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:36:09,208 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:36:09,209 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 22:40:13,526 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 22:40:14,332 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 22:40:14,377 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 22:40:14,396 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 22:40:14,400 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 23:05:30,488 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 23:05:31,299 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 23:05:31,342 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 23:05:31,357 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 23:05:31,362 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 23:09:32,795 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 23:09:33,934 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 23:09:33,988 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 23:09:34,006 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 23:09:34,012 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 23:12:27,031 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 23:12:27,818 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 23:12:27,859 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 23:12:27,878 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 23:12:27,884 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-08 23:13:11,916 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-08 23:13:12,953 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-08 23:13:12,989 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-08 23:13:13,006 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-08 23:13:13,011 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 00:56:26,875 - app.core.logger - INFO - Received file: sample.txt, content_type: application/octet-stream
+2024-11-09 00:56:26,875 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 01:26:54,963 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:26:55,784 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:26:55,820 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:26:55,840 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:26:55,844 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:27:15,347 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:27:16,103 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:27:16,158 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:27:16,179 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:27:16,185 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:34:30,129 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:34:30,864 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:34:30,887 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:34:30,910 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:34:30,910 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:34:36,353 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:34:37,090 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:34:37,130 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:34:37,144 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:34:37,148 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:35:17,095 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:35:17,897 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:35:17,936 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:35:17,953 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:35:17,958 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:35:34,903 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:35:35,652 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:35:35,692 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:35:35,697 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:35:35,710 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:37:25,639 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:37:26,714 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:37:26,771 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:37:26,790 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:37:26,793 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:37:32,871 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:37:33,622 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:37:33,660 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:37:33,678 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:37:33,689 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:42:59,042 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:42:59,905 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:42:59,947 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:42:59,951 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:42:59,951 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:43:00,958 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 01:43:00,958 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 01:43:00,974 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 01:43:00,974 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 01:43:00,974 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 01:43:00,974 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 01:43:00,979 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 01:43:00,980 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 01:43:00,982 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 01:47:25,205 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:47:26,125 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:47:26,171 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:47:26,187 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:47:26,192 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:47:27,541 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 01:47:27,541 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 01:47:27,541 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 01:47:27,541 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 01:47:27,541 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 01:47:27,553 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 01:47:27,555 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 01:47:27,556 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 01:47:27,558 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 01:47:38,472 - app.core.logger - INFO - Received file: requirements.txt, content_type: text/plain
+2024-11-09 01:47:38,472 - app.core.logger - INFO - Successfully loaded text file: requirements.txt
+2024-11-09 01:47:48,182 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 01:47:52,308 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 01:48:36,864 - app.core.logger - INFO - Received file: Prompy.txt, content_type: text/plain
+2024-11-09 01:48:36,865 - app.core.logger - INFO - Successfully loaded text file: Prompy.txt
+2024-11-09 01:48:40,775 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 01:48:46,684 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 01:49:54,432 - app.core.logger - INFO - Starting audio preprocessing for file: 1-1791-A-26.wav
+2024-11-09 01:49:54,445 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-09 01:49:55,590 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-09 01:51:03,132 - trimesh - INFO - triangulating faces
+2024-11-09 01:51:03,135 - trimesh - INFO - triangulating faces
+2024-11-09 01:51:20,469 - trimesh - INFO - triangulating faces
+2024-11-09 01:51:20,469 - trimesh - INFO - triangulating faces
+2024-11-09 01:55:19,469 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:55:20,323 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:55:20,362 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:55:20,384 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:55:20,384 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:55:21,746 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 01:55:21,747 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 01:55:21,748 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 01:55:21,748 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 01:55:21,749 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 01:55:21,749 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 01:55:21,750 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 01:55:21,750 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 01:55:21,751 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 01:55:37,477 - app.core.logger - ERROR - Error preprocessing image: preprocess() got an unexpected keyword argument 'resize'
+2024-11-09 01:55:37,478 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 01:56:22,216 - trimesh - INFO - triangulating faces
+2024-11-09 01:56:22,229 - trimesh - INFO - triangulating faces
+2024-11-09 01:58:21,935 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:58:22,734 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:58:22,772 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:58:22,792 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:58:22,797 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:58:23,753 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 01:58:23,753 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 01:58:23,753 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 01:58:23,753 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 01:58:23,753 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 01:58:23,769 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 01:58:23,770 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 01:58:23,772 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 01:58:23,773 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 01:58:42,782 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 01:58:43,568 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 01:58:43,599 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 01:58:43,615 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 01:58:43,615 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 01:58:44,791 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 01:58:44,791 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 01:58:44,791 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 01:58:44,791 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 01:58:44,807 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 01:58:44,807 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 01:58:44,807 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 01:58:44,807 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 01:58:44,807 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 01:59:00,172 - app.core.logger - ERROR - Error preprocessing image: preprocess() got an unexpected keyword argument 'resize'
+2024-11-09 01:59:00,172 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:01:09,981 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:01:10,915 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:01:10,953 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:01:10,976 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:01:10,976 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:01:12,348 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:01:12,350 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:02:34,228 - app.core.logger - ERROR - Error processing image: Object of type bytes is not JSON serializable
+2024-11-09 02:02:34,229 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:06:35,161 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:06:36,531 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:06:36,571 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:06:36,596 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:06:36,602 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:06:38,035 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:06:38,035 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:06:38,035 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:06:38,035 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:06:38,035 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:06:38,035 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:06:38,035 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:06:38,050 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:06:38,050 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:08:19,317 - trimesh - INFO - triangulating faces
+2024-11-09 02:08:19,322 - trimesh - INFO - triangulating faces
+2024-11-09 02:11:41,272 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:11:42,212 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:11:42,282 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:11:42,304 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:11:42,309 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:11:44,024 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:11:44,024 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:11:44,039 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:11:44,086 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:11:44,117 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:11:44,164 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:11:44,164 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:11:44,195 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:11:44,202 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:12:06,382 - app.core.logger - ERROR - Error processing 3D file: 'Trimesh' object has no attribute 'has_normals'
+2024-11-09 02:12:06,382 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:13:13,658 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:13:14,395 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:13:14,433 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:13:14,453 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:13:14,461 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:13:15,430 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:13:39,513 - app.core.logger - ERROR - Error processing 3D file: 'Trimesh' object has no attribute 'has_normals'
+2024-11-09 02:13:39,513 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:15:12,525 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:15:13,310 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:15:13,352 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:15:13,401 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:15:13,413 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:15:14,459 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:15:14,460 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:15:14,462 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:15:14,463 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:15:14,464 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:15:14,465 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:15:14,466 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:15:14,467 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:15:14,468 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:15:19,093 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:15:19,854 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:15:19,893 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:15:19,956 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:15:19,967 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:15:21,249 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:15:21,251 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:15:21,252 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:15:21,254 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:15:21,256 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:15:21,260 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:15:21,262 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:15:21,263 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:15:21,265 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:16:00,473 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:16:01,448 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:16:01,488 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:16:01,505 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:16:01,511 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:16:03,187 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:16:03,187 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:16:03,202 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:16:03,207 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:16:03,221 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:16:03,229 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:16:03,231 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:16:03,242 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:16:03,244 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:17:16,093 - trimesh - INFO - triangulating faces
+2024-11-09 02:17:16,118 - trimesh - INFO - triangulating faces
+2024-11-09 02:18:22,937 - trimesh - INFO - triangulating faces
+2024-11-09 02:18:22,937 - trimesh - INFO - triangulating faces
+2024-11-09 02:23:10,805 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:23:11,521 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:23:11,562 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:23:11,566 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:23:11,566 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:23:12,866 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:23:12,867 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:23:12,868 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:23:12,868 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:23:12,869 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:23:12,874 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:23:12,875 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:23:12,887 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:23:12,894 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:24:48,204 - trimesh - INFO - triangulating faces
+2024-11-09 02:24:48,204 - trimesh - INFO - triangulating faces
+2024-11-09 02:26:05,275 - trimesh - INFO - triangulating faces
+2024-11-09 02:26:05,281 - trimesh - INFO - triangulating faces
+2024-11-09 02:28:04,000 - trimesh - INFO - triangulating faces
+2024-11-09 02:28:04,007 - trimesh - INFO - triangulating faces
+2024-11-09 02:32:45,361 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:32:46,166 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:32:46,215 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:32:46,254 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:32:46,260 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:32:47,498 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:32:47,498 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:32:47,499 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:32:47,500 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:32:47,500 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:32:47,501 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:32:47,501 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:32:47,502 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:32:47,502 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:33:21,150 - trimesh - INFO - triangulating faces
+2024-11-09 02:33:21,150 - trimesh - INFO - triangulating faces
+2024-11-09 02:33:30,219 - trimesh - INFO - triangulating faces
+2024-11-09 02:33:30,219 - trimesh - INFO - triangulating faces
+2024-11-09 02:33:30,256 - app.core.logger - ERROR - Error preprocessing mesh: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:33:30,257 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:33:30,258 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:33:33,689 - trimesh - INFO - triangulating faces
+2024-11-09 02:33:33,705 - trimesh - INFO - triangulating faces
+2024-11-09 02:33:33,781 - app.core.logger - ERROR - Error augmenting mesh: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:33:33,781 - app.core.logger - ERROR - Error augmenting 3D file: Augmentation failed: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:33:33,781 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:33:51,923 - app.core.logger - ERROR - Error preprocessing mesh: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:33:51,923 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:33:51,923 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:33:58,553 - app.core.logger - ERROR - Error preprocessing mesh: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:33:58,553 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:33:58,553 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:34:28,586 - trimesh - INFO - triangulating faces
+2024-11-09 02:34:28,588 - trimesh - INFO - triangulating faces
+2024-11-09 02:34:51,093 - trimesh - INFO - triangulating faces
+2024-11-09 02:34:51,093 - trimesh - INFO - triangulating faces
+2024-11-09 02:34:51,271 - app.core.logger - ERROR - Error preprocessing mesh: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:34:51,271 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:34:51,271 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:35:04,736 - trimesh - INFO - triangulating faces
+2024-11-09 02:35:04,736 - trimesh - INFO - triangulating faces
+2024-11-09 02:35:04,874 - app.core.logger - ERROR - Error augmenting mesh: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:35:04,874 - app.core.logger - ERROR - Error augmenting 3D file: Augmentation failed: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:35:04,874 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:35:22,690 - app.core.logger - ERROR - Error preprocessing mesh: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:35:22,690 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:35:22,690 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:39:30,418 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:39:31,175 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:39:31,208 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:39:31,218 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:39:31,218 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:39:32,223 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:39:32,224 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:39:32,225 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:39:32,225 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:39:32,226 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:39:32,226 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:39:32,227 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:39:32,227 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:39:32,228 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:39:59,710 - app.core.logger - ERROR - Error preprocessing mesh: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:39:59,710 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'Trimesh' object has no attribute 'fix_inversion'
+2024-11-09 02:39:59,710 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:42:53,309 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:42:54,103 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:42:54,144 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:42:54,169 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:42:54,169 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:42:55,444 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:42:55,445 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:42:55,446 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:42:55,447 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:42:55,447 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:42:55,448 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:42:55,449 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:42:55,450 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:42:55,451 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:43:16,460 - app.core.logger - ERROR - Error preprocessing mesh: 'Trimesh' object has no attribute 'fix_winding'
+2024-11-09 02:43:16,461 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'Trimesh' object has no attribute 'fix_winding'
+2024-11-09 02:43:16,461 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:45:26,051 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:45:26,880 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:45:26,920 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:45:26,936 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:45:26,942 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:45:28,172 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:45:28,173 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:45:28,175 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:45:28,177 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:45:28,178 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:45:28,179 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:45:28,181 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:45:28,182 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:45:28,183 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:46:04,772 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 02:46:05,671 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 02:46:05,698 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 02:46:05,714 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 02:46:05,733 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 02:46:07,055 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 02:46:07,055 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 02:46:07,068 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 02:46:07,070 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 02:46:07,072 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 02:46:07,073 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 02:46:07,077 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 02:46:07,079 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 02:46:07,081 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 02:46:51,742 - trimesh - INFO - triangulating faces
+2024-11-09 02:46:51,795 - trimesh - INFO - triangulating faces
+2024-11-09 02:46:55,413 - trimesh - INFO - triangulating faces
+2024-11-09 02:46:55,429 - trimesh - INFO - triangulating faces
+2024-11-09 02:46:55,452 - app.core.logger - WARNING - Could not fill holes: 'bool' object has no attribute 'faces'
+2024-11-09 02:46:55,453 - app.core.logger - WARNING - Some cleanup steps skipped: 'bool' object has no attribute 'remove_degenerate_faces'
+2024-11-09 02:46:55,453 - app.core.logger - ERROR - Error preprocessing mesh: 'bool' object has no attribute 'vertices'
+2024-11-09 02:46:55,454 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'bool' object has no attribute 'vertices'
+2024-11-09 02:46:55,455 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:46:58,285 - trimesh - INFO - triangulating faces
+2024-11-09 02:46:58,285 - trimesh - INFO - triangulating faces
+2024-11-09 02:46:58,321 - app.core.logger - WARNING - Could not fill holes: 'bool' object has no attribute 'faces'
+2024-11-09 02:46:58,321 - app.core.logger - WARNING - Some cleanup steps skipped: 'bool' object has no attribute 'remove_degenerate_faces'
+2024-11-09 02:46:58,322 - app.core.logger - ERROR - Error preprocessing mesh: 'bool' object has no attribute 'vertices'
+2024-11-09 02:46:58,323 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'bool' object has no attribute 'vertices'
+2024-11-09 02:46:58,326 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:47:00,155 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:00,171 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:00,171 - app.core.logger - ERROR - Error augmenting mesh: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:47:00,171 - app.core.logger - ERROR - Error augmenting 3D file: Augmentation failed: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:47:00,179 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:47:10,180 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:10,180 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:10,196 - app.core.logger - ERROR - Error augmenting mesh: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:47:10,197 - app.core.logger - ERROR - Error augmenting 3D file: Augmentation failed: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:47:10,198 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:47:41,568 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:41,570 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:50,529 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:50,529 - trimesh - INFO - triangulating faces
+2024-11-09 02:47:50,747 - app.core.logger - WARNING - Could not fill holes: 'bool' object has no attribute 'faces'
+2024-11-09 02:47:50,747 - app.core.logger - WARNING - Some cleanup steps skipped: 'bool' object has no attribute 'remove_degenerate_faces'
+2024-11-09 02:47:50,747 - app.core.logger - ERROR - Error preprocessing mesh: 'bool' object has no attribute 'vertices'
+2024-11-09 02:47:50,747 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'bool' object has no attribute 'vertices'
+2024-11-09 02:47:50,762 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:48:01,174 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:01,174 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:01,333 - app.core.logger - ERROR - Error augmenting mesh: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:48:01,333 - app.core.logger - ERROR - Error augmenting 3D file: Augmentation failed: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:48:01,349 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:48:14,070 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:14,100 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:18,365 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:18,380 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:18,380 - app.core.logger - ERROR - Error augmenting mesh: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:48:18,380 - app.core.logger - ERROR - Error augmenting 3D file: Augmentation failed: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:48:18,380 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:48:21,123 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:21,139 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:21,144 - app.core.logger - ERROR - Error augmenting mesh: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:48:21,145 - app.core.logger - ERROR - Error augmenting 3D file: Augmentation failed: 'Trimesh' object has no attribute 'simplify_quadratic_decimation'
+2024-11-09 02:48:21,146 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:48:22,606 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:22,606 - trimesh - INFO - triangulating faces
+2024-11-09 02:48:22,632 - app.core.logger - WARNING - Could not fill holes: 'bool' object has no attribute 'faces'
+2024-11-09 02:48:22,633 - app.core.logger - WARNING - Some cleanup steps skipped: 'bool' object has no attribute 'remove_degenerate_faces'
+2024-11-09 02:48:22,634 - app.core.logger - ERROR - Error preprocessing mesh: 'bool' object has no attribute 'vertices'
+2024-11-09 02:48:22,635 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'bool' object has no attribute 'vertices'
+2024-11-09 02:48:22,635 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 02:50:21,100 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:19,176 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:19,176 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:19,564 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:19,885 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:20,107 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:45,294 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:45,294 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:45,702 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:46,003 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:46,209 - trimesh - INFO - triangulating faces
+2024-11-09 03:02:46,502 - app.core.logger - WARNING - Could not fill holes: 'bool' object has no attribute 'faces'
+2024-11-09 03:02:46,502 - app.core.logger - WARNING - Some cleanup steps skipped: 'bool' object has no attribute 'remove_degenerate_faces'
+2024-11-09 03:02:46,502 - app.core.logger - ERROR - Error preprocessing mesh: 'bool' object has no attribute 'vertices'
+2024-11-09 03:02:46,502 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'bool' object has no attribute 'vertices'
+2024-11-09 03:02:46,502 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 03:03:21,663 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:21,663 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:22,064 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:22,352 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:22,542 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:46,661 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:46,661 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:47,064 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:47,352 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:47,636 - trimesh - INFO - triangulating faces
+2024-11-09 03:03:47,936 - app.core.logger - WARNING - Could not fill holes: 'bool' object has no attribute 'faces'
+2024-11-09 03:03:47,936 - app.core.logger - WARNING - Some cleanup steps skipped: 'bool' object has no attribute 'remove_degenerate_faces'
+2024-11-09 03:03:47,936 - app.core.logger - ERROR - Error preprocessing mesh: 'bool' object has no attribute 'vertices'
+2024-11-09 03:03:47,951 - app.core.logger - ERROR - Error preprocessing 3D file: Preprocessing failed: 'bool' object has no attribute 'vertices'
+2024-11-09 03:03:47,951 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 03:07:23,215 - app.core.logger - ERROR - Error loading mesh: invalid literal for int() with base 10: '-5.300000'
+2024-11-09 03:07:23,215 - app.core.logger - ERROR - Error processing 3D file: Failed to load off file: invalid literal for int() with base 10: '-5.300000'
+2024-11-09 03:07:23,230 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 03:07:36,051 - app.core.logger - ERROR - Error loading mesh: invalid literal for int() with base 10: '0.500000'
+2024-11-09 03:07:36,052 - app.core.logger - ERROR - Error processing 3D file: Failed to load off file: invalid literal for int() with base 10: '0.500000'
+2024-11-09 03:07:36,053 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 03:07:53,491 - app.core.logger - ERROR - Error loading mesh: invalid literal for int() with base 10: '0.500000'
+2024-11-09 03:07:53,491 - app.core.logger - ERROR - Error processing 3D file: Failed to load off file: invalid literal for int() with base 10: '0.500000'
+2024-11-09 03:07:53,491 - app.core.logger - ERROR - Unhandled exception: 'dict' object is not callable
+2024-11-09 03:16:39,712 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:16:39,713 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:16:50,497 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:16:59,622 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:17:06,394 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:17:18,657 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:17:29,436 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:17:29,437 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:17:31,181 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:17:36,817 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:17:44,927 - app.core.logger - INFO - Received file: demo.txt, content_type: text/plain
+2024-11-09 03:17:44,928 - app.core.logger - INFO - Successfully loaded text file: demo.txt
+2024-11-09 03:17:46,961 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:17:52,494 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:27:24,344 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 03:27:25,593 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 03:27:25,693 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 03:27:25,827 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 03:27:25,832 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 03:27:28,368 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 03:27:28,370 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 03:27:28,370 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 03:27:28,371 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 03:27:28,372 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 03:27:28,373 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 03:27:28,374 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 03:27:28,374 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 03:27:28,375 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 03:27:51,211 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:27:51,212 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:28:06,994 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:28:43,447 - app.core.logger - INFO - Received file: demo.txt, content_type: text/plain
+2024-11-09 03:28:43,448 - app.core.logger - INFO - Successfully loaded text file: demo.txt
+2024-11-09 03:28:47,389 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:29:14,662 - app.core.logger - INFO - Received file: Activities Carried Out.txt, content_type: text/plain
+2024-11-09 03:29:14,664 - app.core.logger - INFO - Successfully loaded text file: Activities Carried Out.txt
+2024-11-09 03:29:17,656 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:29:24,448 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:29:36,722 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:29:44,929 - app.core.logger - INFO - Received file: Activities Carried Out.txt, content_type: text/plain
+2024-11-09 03:29:44,930 - app.core.logger - INFO - Successfully loaded text file: Activities Carried Out.txt
+2024-11-09 03:29:46,358 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:29:57,262 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:30:09,361 - app.core.logger - INFO - Received file: requirements.txt, content_type: text/plain
+2024-11-09 03:30:09,362 - app.core.logger - INFO - Successfully loaded text file: requirements.txt
+2024-11-09 03:30:12,012 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:30:17,841 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:30:25,124 - app.core.logger - INFO - Received file: Prompy.txt, content_type: text/plain
+2024-11-09 03:30:25,125 - app.core.logger - INFO - Successfully loaded text file: Prompy.txt
+2024-11-09 03:30:26,403 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:30:55,050 - app.core.logger - INFO - Received file: Prompy.txt, content_type: text/plain
+2024-11-09 03:30:55,052 - app.core.logger - INFO - Successfully loaded text file: Prompy.txt
+2024-11-09 03:30:56,651 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:30:58,423 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:31:33,252 - app.core.logger - INFO - Received file: requirements.txt, content_type: text/plain
+2024-11-09 03:31:33,253 - app.core.logger - INFO - Successfully loaded text file: requirements.txt
+2024-11-09 03:31:34,812 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:35:08,786 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 03:35:09,733 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 03:35:09,783 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 03:35:09,822 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 03:35:09,827 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 03:35:11,809 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 03:35:11,819 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 03:35:11,820 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 03:35:11,821 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 03:35:11,822 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 03:35:11,822 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 03:35:11,824 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 03:35:11,825 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 03:35:11,826 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 03:36:25,724 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:36:25,725 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:36:48,178 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:36:48,188 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:37:16,659 - app.core.logger - INFO - Received file: sample_cube.off, content_type: application/octet-stream
+2024-11-09 03:37:16,660 - app.core.logger - INFO - Successfully loaded text file: sample_cube.off
+2024-11-09 03:43:37,746 - app.core.logger - INFO - Starting audio preprocessing for file: 1-1791-A-26.wav
+2024-11-09 03:43:37,773 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-09 03:43:38,198 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-09 03:43:50,221 - app.core.logger - INFO - Starting audio preprocessing for file: 1-1791-A-26.wav
+2024-11-09 03:43:50,233 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-09 03:43:50,322 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-09 03:48:48,748 - app.core.logger - INFO - NLTK package 'punkt' already downloaded
+2024-11-09 03:48:49,785 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2024-11-09 03:48:49,830 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2024-11-09 03:48:49,848 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2024-11-09 03:48:49,852 - app.core.logger - INFO - TextProcessor initialized successfully
+2024-11-09 03:48:51,252 - app.core.logger - INFO - Ensured directory exists for image uploads: uploads/images
+2024-11-09 03:48:51,253 - app.core.logger - INFO - Ensured directory exists for audio uploads: uploads/audio
+2024-11-09 03:48:51,254 - app.core.logger - INFO - Ensured directory exists for text uploads: uploads/text
+2024-11-09 03:48:51,254 - app.core.logger - INFO - Ensured directory exists for 3D model uploads: uploads/3d
+2024-11-09 03:48:51,255 - app.core.logger - INFO - Ensured directory exists for temporary files: uploads/temp
+2024-11-09 03:48:51,255 - app.core.logger - INFO - Ensured directory exists for static files: static
+2024-11-09 03:48:51,256 - app.core.logger - INFO - Ensured directory exists for JavaScript files: static/js
+2024-11-09 03:48:51,257 - app.core.logger - INFO - Ensured directory exists for CSS files: static/css
+2024-11-09 03:48:51,259 - app.core.logger - INFO - Ensured directory exists for JavaScript components: static/js/components
+2024-11-09 03:49:59,361 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:49:59,365 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:50:26,504 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:50:26,519 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:50:50,807 - app.core.logger - INFO - Received file: demo.txt, content_type: text/plain
+2024-11-09 03:50:50,808 - app.core.logger - INFO - Successfully loaded text file: demo.txt
+2024-11-09 03:51:00,760 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:51:09,092 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:51:20,480 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:51:20,481 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:51:27,242 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:51:29,716 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:52:09,073 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:52:09,080 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:52:13,386 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 03:52:24,402 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 03:53:05,006 - app.core.logger - INFO - Starting audio preprocessing for file: 1-1791-A-26.wav
+2024-11-09 03:53:05,023 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-09 03:53:05,646 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-09 03:59:50,458 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 03:59:50,484 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 03:59:58,509 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 04:00:07,227 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 04:01:39,496 - app.core.logger - INFO - Starting audio preprocessing for file: 1-1791-A-26.wav
+2024-11-09 04:01:39,517 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-09 04:01:39,683 - app.core.logger - INFO - Audio preprocessing completed
+2024-11-09 04:05:20,319 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 04:05:20,320 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 04:06:24,811 - app.core.logger - INFO - Received file: sample.txt, content_type: text/plain
+2024-11-09 04:06:24,813 - app.core.logger - INFO - Successfully loaded text file: sample.txt
+2024-11-09 04:06:32,608 - app.core.logger - INFO - Text preprocessing completed successfully
+2024-11-09 04:06:40,285 - app.core.logger - INFO - Text augmentation completed successfully
+2024-11-09 04:07:59,556 - app.core.logger - INFO - Starting audio preprocessing for file: 1-137-A-32.wav
+2024-11-09 04:07:59,573 - app.core.logger - INFO - Audio file loaded successfully
+2024-11-09 04:07:59,882 - app.core.logger - INFO - Audio preprocessing completed
