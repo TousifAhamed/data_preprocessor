@@ -36,7 +36,7 @@ Note: Make sure you have both Python and Node.js installed on your system before
 
 ## Usage
 
-For a quick start, watch our [tutorial video](https://www.youtube.com/watch?v=example) demonstrating how to use Data Preprocessor.
+For a quick start, watch our [tutorial video](https://youtu.be/zgjkvP-pmxk) demonstrating how to use Data Preprocessor.
 
 
 ## Requirements
