@@ -34,7 +34,7 @@ pillow==10.1.0
 librosa==0.10.1
 
 # Text processing
-nltk==3.8.1
+nltk==3.9
 soundfile==0.12.1
 
 # 3D processing
