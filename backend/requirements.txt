@@ -28,7 +28,7 @@ black>=21.7b0
 flake8>=3.9.0
 
 # Image processing
-pillow==10.1.0
+pillow==10.3.0
 
 # Audio processing
 librosa==0.10.1
