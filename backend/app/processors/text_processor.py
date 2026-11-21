@@ -27,7 +27,15 @@ def download_nltk_data():
                 nltk.data.find(resource)
                 logger.info(f"NLTK package '{package}' already downloaded")
             except LookupError:
-                nltk.download(package)
+                # nltk.download() returns False (it does not raise) when the
+                # download fails, e.g. offline or blocked behind a proxy.
+                if not nltk.download(package):
+                    raise LookupError(
+                        f"NLTK package '{package}' is missing and could not be "
+                        f"downloaded. Run `python -m nltk.downloader punkt_tab "
+                        f"stopwords wordnet` (see README), and make sure the "
+                        f"nltk_data folder is not writable by other users."
+                    )
                 logger.info(f"Downloaded NLTK package '{package}'")
     except Exception as e:
         logger.error(f"Error downloading NLTK data: {str(e)}")
