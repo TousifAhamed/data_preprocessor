@@ -8,18 +8,23 @@ from typing import Dict, Any
 from app.core.logger import logger
 
 def download_nltk_data():
-    """Download required NLTK data with error handling"""
-    required_packages = [
-        'punkt',           # Changed from punkt_tab to punkt
-        'stopwords',
-        'wordnet',
-        'averaged_perceptron_tagger'
-    ]
-    
+    """Make sure the NLTK data this processor needs is available.
+
+    nltk >= 3.9 tokenizes with the 'punkt_tab' model (not the old pickled
+    'punkt'). Each package is looked up at its real location, so nothing is
+    downloaded when the data is already installed (e.g. pre-downloaded with
+    `python -m nltk.downloader punkt_tab stopwords wordnet`).
+    """
+    required_packages = {
+        'punkt_tab': 'tokenizers/punkt_tab',   # sent_tokenize / word_tokenize
+        'stopwords': 'corpora/stopwords',
+        'wordnet': 'corpora/wordnet',          # WordNetLemmatizer
+    }
+
     try:
-        for package in required_packages:
+        for package, resource in required_packages.items():
             try:
-                nltk.data.find(f'tokenizers/{package}')
+                nltk.data.find(resource)
                 logger.info(f"NLTK package '{package}' already downloaded")
             except LookupError:
                 nltk.download(package)

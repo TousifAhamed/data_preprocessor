@@ -13,26 +13,57 @@ A Python-based data preprocessing tool designed to clean, transform, and prepare
 ## Installation
 
 ### Prerequisites
-- Node.js (v14.0.0 or higher)
-- Python 3.7+
+- Python 3.11+
+- Node.js 18+
 
 ### Setup
 
 ```bash
 # Clone the repository
 git clone https://github.com/TousifAhamed/data_preprocessor.git
-
-# Navigate to project directory
 cd data_preprocessor
 
-# Install Python dependencies
+# Backend (FastAPI)
+cd backend
+python -m venv venv
+source venv/bin/activate          # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-# Install Node dependencies
-npm install
+# Download the NLTK data once, ahead of time (see "Security notes" below)
+python -m nltk.downloader punkt_tab stopwords wordnet
+
+# Start the API on http://localhost:8000
+python -m app.main
 ```
 
-Note: Make sure you have both Python and Node.js installed on your system before proceeding with the installation.
+```bash
+# Frontend (in a second terminal)
+cd frontend
+npm install
+npm start                         # http://localhost:3000
+```
+
+## Security notes
+
+### nltk: known advisories without a fix yet
+`backend/requirements.txt` pins **nltk 3.10.4**, the newest release. It still has 4 published advisories with **no patched version available**:
+- arbitrary file read through `nltk.util.filestring`;
+- a path-traversal check gap;
+- SSRF in `nltk.download()`;
+- the downloader extracting packages before verifying them.
+
+What to do:
+1. **Pre-download the NLTK data** with the `python -m nltk.downloader ...` command above, on a trusted network. The app then finds the data locally and doesn't call `nltk.download()` while it runs.
+2. **Don't pass user-supplied paths or URLs** to nltk loading functions (`nltk.data.load`, `filestring`, custom download URLs). This app only uses the built-in tokenizer, stopword and lemmatizer data, so it doesn't today.
+3. **Upgrade as soon as a fix is released**, then re-check:
+   ```bash
+   pip install -U nltk
+   pip install pip-audit && pip-audit -r requirements.txt
+   ```
+   Update the `nltk==` pin in `backend/requirements.txt` to the new version and commit it.
+
+### Never commit dependencies or build output
+`node_modules/`, `__pycache__/`, `.env` and similar files are listed in `.gitignore`. Install them locally with the commands above.
 
 ## Usage
 
@@ -41,7 +72,7 @@ For a quick start, watch our [tutorial video](https://youtu.be/zgjkvP-pmxk) demo
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.11+
 - pandas
 - numpy
 - scikit-learn
