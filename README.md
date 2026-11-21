@@ -45,14 +45,10 @@ npm start                         # http://localhost:3000
 
 ## Security notes
 
-### nltk: known advisories without a fix yet
-`backend/requirements.txt` pins **nltk 3.10.4**, the newest release. It still has 4 published advisories with **no patched version available**:
-- arbitrary file read through `nltk.util.filestring`;
-- a path-traversal check gap;
-- SSRF in `nltk.download()`;
-- the downloader extracting packages before verifying them.
+### nltk: keep it on 3.10.4 or newer
+`backend/requirements.txt` pins **nltk 3.10.4**. Older nltk versions have many published advisories (file read, path traversal, SSRF in `nltk.download()`, unsafe package extraction). As of November 2026, `pip-audit` reports **no known vulnerabilities in 3.10.4**, so don't pin anything older.
 
-What to do:
+Because the downloader has had repeated issues, still follow these steps:
 1. **Pre-download the NLTK data** with the `python -m nltk.downloader ...` command above, on a trusted network. The app then finds the data locally and doesn't call `nltk.download()` while it runs.
 2. **Don't pass user-supplied paths or URLs** to nltk loading functions (`nltk.data.load`, `filestring`, custom download URLs). This app only uses the built-in tokenizer, stopword and lemmatizer data, so it doesn't today.
 3. **Upgrade as soon as a fix is released**, then re-check:
