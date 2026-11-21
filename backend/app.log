@@ -1333,3 +1333,57 @@
 2024-11-09 04:07:59,556 - app.core.logger - INFO - Starting audio preprocessing for file: 1-137-A-32.wav
 2024-11-09 04:07:59,573 - app.core.logger - INFO - Audio file loaded successfully
 2024-11-09 04:07:59,882 - app.core.logger - INFO - Audio preprocessing completed
+2026-11-20 22:37:07,452 - app.core.logger - INFO - Downloaded NLTK package 'punkt'
+2026-11-20 22:37:07,453 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2026-11-20 22:37:07,455 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2026-11-20 22:37:07,456 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2026-11-20 22:37:07,457 - app.core.logger - ERROR - Error initializing TextProcessor: 
+**********************************************************************
+  Resource 'stopwords' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('stopwords')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'corpora/stopwords'
+
+  Searched in:
+    - '/root/nltk_data'
+    - '/tmp/venv_dp/nltk_data'
+    - '/tmp/venv_dp/share/nltk_data'
+    - '/tmp/venv_dp/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2026-11-20 22:37:14,082 - app.core.logger - INFO - Downloaded NLTK package 'punkt'
+2026-11-20 22:37:14,083 - app.core.logger - INFO - Downloaded NLTK package 'stopwords'
+2026-11-20 22:37:14,084 - app.core.logger - INFO - Downloaded NLTK package 'wordnet'
+2026-11-20 22:37:14,085 - app.core.logger - INFO - Downloaded NLTK package 'averaged_perceptron_tagger'
+2026-11-20 22:37:14,086 - app.core.logger - ERROR - Error initializing TextProcessor: 
+**********************************************************************
+  Resource 'stopwords' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('stopwords')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'corpora/stopwords'
+
+  Searched in:
+    - '/root/nltk_data'
+    - '/tmp/venv_dp/nltk_data'
+    - '/tmp/venv_dp/share/nltk_data'
+    - '/tmp/venv_dp/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
